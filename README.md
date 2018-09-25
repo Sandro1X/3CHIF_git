@@ -2,3 +2,4 @@
 
 Michael Kahr
 Sandro Baumgartner
+added sum text
